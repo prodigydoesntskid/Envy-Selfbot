@@ -23,21 +23,17 @@ THIS TOOL IS RELEASED TO THE PUBLIC AND DOES NOT ALLOW UNATHORIZED SELLING OF TH
 ## 📁 Setup
 
 1. Clone this repo  
-   ```bash
+   ```
    git clone https://github.com/muzfr/envy
    cd envy-selfbot
 
    Install dependencies
-2.
-bash
-Copy
-Edit
+2. Setup
+```
 pip install -r requirements.txt
 Add your main token to envy.py and tokens in tokens.txt (main token in envy.py)
-3.
-run it
-
-bash
-Copy
-Edit
+```
+3. Run The Bot
+```
 python envy.py
+```
