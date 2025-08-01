@@ -1,26 +1,43 @@
-# Envy Selfbot – Discord Selfbot
+# ENVY
 
-This is a personal selfbot project I made for Discord. It's packed with commands for fun, automation, trolling, and experimenting with the Discord API. Not gonna lie, it’s kinda overkill — but that’s the point.
-
-> ⚠️ **For educational purposes only.**  
-> I made this to learn and mess around on my own account. What you do with it is on you.
-
----
-
-## 💡 What it Can Do
-
-- 🎭 Change status (playing, streaming, listening, etc.)
-- 📩 Mass DM, auto reply/react, ghost ping
-- 🎮 Fun stuff: games, text mods, randomizers
-- 🛠️ Group chat tools: rename spam, exile mode, spam bots
-- 🌈 Webhook utilities: spam, nuke, ghost
-- 🧾 Account edits: bio, pfp, nickname, etc.
-- 🔨 Server stuff: mass kick, channel nukes (use responsibly)
+A powerful multipurpose Discord selfbot made by @prodigyyyyyyyyyyyyyyyyy on discord.  
+Packed with chat commands, troll tools, mini-games, webhook nuking, account utilities, AI generation, and multi-token spam functions.
+I am not responsible for account terminations or limitations
+THIS TOOL IS RELEASED TO THE PUBLIC AND DOES NOT ALLOW UNATHORIZED SELLING OF THE PRODUCT OR DISTRIBUTATION OUTSIDE OF THIS GITHUB RESPO
 
 ---
 
-## ⚙️ Setup
+## 🚀 Features
 
-1. **Install dependencies** (make sure Python 3.10+ is installed):
+- 💬 Chatpack / Death / Court / exile
+- 👥 Mass DM & GC spam via tokens
+- 🎮 Mini-games (RPS, coinflip, slots)
+- 🧠 AI chat pack & quote generation
+- 💻 Multi-token support (kill, multilast, gckill)
+- 📦 ANSI UI menus, status cycling, autoreact & autorespond
+- 🎧 Spotify control, RPC, AFK Check, Forced Nickname
+- AND MANY MORE
+
+---
+
+## 📁 Setup
+
+1. Clone this repo  
    ```bash
-   pip install -r requirements.txt
+   git clone https://github.com/muzfr/envy
+   cd envy-selfbot
+
+   Install dependencies
+2.
+bash
+Copy
+Edit
+pip install -r requirements.txt
+Add your main token to envy.py and tokens in tokens.txt (main token in envy.py)
+3.
+run it
+
+bash
+Copy
+Edit
+python envy.py
